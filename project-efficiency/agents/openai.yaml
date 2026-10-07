@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Efficiency"
+  short_description: "Retrieve focused context and maintain project knowledge"
+  default_prompt: "Use $project-efficiency to set up this project's knowledge index and keep future work focused."
